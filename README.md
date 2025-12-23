@@ -86,13 +86,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedi0&theme=vue&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-
 </div>
+
 ---
 
 ## 📈 Activity Graph
@@ -125,13 +124,7 @@
 
 ---
 
-## 🏆 Top Contributors
-
-![](https://github-contributor-stats.vercel.app/api?username=hedi0&limit=5&theme=vue&combine_all_yearly_contributions=true)
-
 ## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-snake-light.svg" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-contribution-grid-snake.svg" />
