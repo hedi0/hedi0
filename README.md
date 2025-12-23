@@ -112,13 +112,14 @@
 
 ## 📊 Detailed Stats
 
+
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hedi0&theme=react-dark" width="100%" />
+![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hedi0&theme=react-dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hedi0&theme=react-dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hedi0&theme=react-dark" width="32%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hedi0&theme=radical&hide_border=true)
 
 </div>
 
