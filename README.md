@@ -94,22 +94,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hedi0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="http://github-profile-trophy.vercel.app/?username=hedi0&theme=react-dark&hide_border=true&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
