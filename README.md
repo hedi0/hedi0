@@ -87,11 +87,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true" height="165"/>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedi0&theme=vue&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 
-  <img src="https://streak-stats.demolab.com/?user=hedi0" height="165"/>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=react-dark&count_private=true" height="165"/>
 
 </div>
 
@@ -128,6 +130,8 @@
 ---
 
 ## 🐍 Contribution Snake
+
+![](https://github-contributor-stats.vercel.app/api?username=hedi0&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 <div align="center">
   <img src="http://github.com/hedi0/hedi0/blob/output/github-contribution-grid-snake.svg" />
