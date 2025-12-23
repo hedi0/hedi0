@@ -87,11 +87,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true" height="165"/>
+  <img src="http://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true" height="165"/>
 
-  <img src="https://streak-stats.demolab.com?user=hedi0&theme=react-dark&v=2" height="165"/>
+  <img src="http://streak-stats.demolab.com?user=hedi0&theme=react-dark&v=2" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=react-dark&count_private=true" height="165"/>
+  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=react-dark&count_private=true" height="165"/>
 
 </div>
 
@@ -108,7 +108,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hedi0&theme=react-dark&hide_border=true&no-frame=true&row=1&column=6" />
+  <img src="http://github-profile-trophy.vercel.app/?username=hedi0&theme=react-dark&hide_border=true&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -117,11 +117,11 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hedi0&theme=react-dark" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hedi0&theme=react-dark" width="100%" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hedi0&theme=react-dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hedi0&theme=react-dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hedi0&theme=react-dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hedi0&theme=react-dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hedi0&theme=react-dark" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hedi0&theme=react-dark" width="32%" />
 
 </div>
 
@@ -130,6 +130,6 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/hedi0/hedi0/blob/output/github-contribution-grid-snake.svg" />
+  <img src="http://github.com/hedi0/hedi0/blob/output/github-contribution-grid-snake.svg" />
   <p>✨ Thanks for visiting my profile! ✨</p>
 </div>
