@@ -112,14 +112,12 @@
 
 ## 📊 Detailed Stats
 
-
 <div align="center">
 
-![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=radical&count_private=true&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=radical" width="100%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hedi0&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hedi0&theme=radical" width="49%" />
 
 </div>
 
