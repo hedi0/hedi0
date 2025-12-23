@@ -131,6 +131,8 @@
 
 ## 🐍 Contribution Snake
 
+<img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-snake-light.svg" />
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-contribution-grid-snake.svg" />
   <p>✨ Thanks for visiting my profile! ✨</p>
