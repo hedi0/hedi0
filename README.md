@@ -93,10 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 
 </div>
-
-
-</div>
-
 ---
 
 ## 📈 Activity Graph
@@ -129,9 +125,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Top Contributors
 
 ![](https://github-contributor-stats.vercel.app/api?username=hedi0&limit=5&theme=vue&combine_all_yearly_contributions=true)
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="http://github.com/hedi0/hedi0/blob/output/github-contribution-grid-snake.svg" />
