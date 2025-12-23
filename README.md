@@ -89,7 +89,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true" height="165"/>
 
-  <img src="https://streak-stats.demolab.com?user=hedi0&theme=react-dark&v=3" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=hedi0" height="165"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=react-dark&count_private=true" height="165"/>
 
