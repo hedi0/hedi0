@@ -1,5 +1,3 @@
-![Header](https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b)
-
 <h1 align="center">👋 Hi, I'm Mohammed Hedi Abdellatif</h1>
 
 <div align="center">
@@ -33,11 +31,8 @@
 - 🌱 Learning **RTOS, ARM Cortex-M, Embedded Linux**  
 - 🏆 Competitive programming enthusiast  
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hedi0&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/hedi0?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=hedi0&label=Profile%20views&color=0e75b6&style=flat" alt="hedi0" />
 </p>
 
 ---
@@ -46,39 +41,39 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs" alt="Programming Languages" />
 </p>
 
 ### Embedded & IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,flask" alt="Web Development" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
 </p>
 
 ### Mobile & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,figma,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,figma,androidstudio" alt="Mobile & Design" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,linux,bash" alt="DevOps" />
 </p>
 
 ### Development Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell" alt="Environments" />
 </p>
 
 ---
@@ -86,19 +81,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedi0&theme=vue&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedi0&theme=vue&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=vue&hide_border=true" alt="Top Languages" width="48%" />
+  
 </div>
+
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hedi0&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hedi0&theme=github-compact&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -106,32 +104,15 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="http://github-profile-trophy.vercel.app/?username=hedi0&theme=react-dark&hide_border=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hedi0&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
-
-## 📊 Detailed Stats
-
-<div align="center">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hedi0&theme=react-dark" width="100%" />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hedi0&theme=react-dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hedi0&theme=react-dark" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hedi0&theme=react-dark" width="32%" />
-
-</div>
-
----
-
-## 🏆 Top Contributors
-
-![](https://github-contributor-stats.vercel.app/api?username=hedi0&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="http://github.com/hedi0/hedi0/blob/output/github-contribution-grid-snake.svg" />
-  <p>✨ Thanks for visiting my profile! ✨</p>
+  <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/snake.svg" alt="Snake animation" />
 </div>
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
