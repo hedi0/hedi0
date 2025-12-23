@@ -97,14 +97,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-| | |
-|:---:|:---:|
-| **GitHub Stats** | **Top Languages** |
-| <img src="https://github-readme-stats.vercel.app/api?username=hedi0&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedi0&layout=compact&theme=dark&hide_border=true" width="100%"> |
-| **Contribution Graph** | **Activity Graph** |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=hedi0&theme=github-dark&hide_border=true" width="100%"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hedi0&theme=github_dark" width="100%"> |
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hedi0&theme=github-dark&hide_border=true" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hedi0&theme=github_dark" width="100%">
 </div>
 
 ---
