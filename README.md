@@ -30,7 +30,6 @@
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently studying at university  
 - 🔭 Working on embedded systems projects  
-- 🌱 Learning **RTOS, ARM Cortex-M, Embedded Linux**  
 - 🏆 Competitive programming enthusiast  
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
