@@ -80,23 +80,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,labview,vivado,vitis,vmware,proteus,virtualbox,github,windows,linux,ubuntu,powershell" />
 </p>
 
-<h3>Development Environments</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=labview" alt="LabVIEW" />
-  <img src="https://skillicons.dev/icons?i=vivado" alt="Vivado" />
-  <img src="https://skillicons.dev/icons?i=vitis" alt="Vitis" />
-  <img src="https://skillicons.dev/icons?i=vmware" alt="VMware" />
-  <img src="https://skillicons.dev/icons?i=proteus" alt="Proteus" />
-  <img src="https://skillicons.dev/icons?i=virtualbox" alt="VirtualBox" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
