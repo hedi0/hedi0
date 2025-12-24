@@ -45,7 +45,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java" />
 </p>
 
 ### Embedded & IoT
