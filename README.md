@@ -76,8 +76,8 @@
 </p>
 
 ### Development Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,labview,vivado,vitis,vmware,virtualbox,proteus,github,windows,linux,ubuntu,powershell" />
+<p>   <!-- labview,vivado,vitis,vmware,virtualbox,proteus, -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell" />
 </p>
 
 ---
