@@ -8,7 +8,7 @@
 
 ---
 
-## 📫 Connect With Me hello it's
+## 📫 Connect With Me hello i
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-hedi-abdellatif/" target="_blank">
