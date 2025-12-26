@@ -7,7 +7,6 @@
 </div>
 
 ---
-a
 ## 📫 Connect With Me
 
 <p align="center">
@@ -76,7 +75,7 @@ a
 </p>
 
 ### Development Environments
-<p>   <!-- labview,vivado,vitis,vmware,virtualbox,proteus, -->
+<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell" />
 </p>
 
