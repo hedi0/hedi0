@@ -4,7 +4,7 @@
 
 <h1 align="center">Mohammed Hedi Abdellatif</h1>
 
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph.svg">
@@ -16,11 +16,7 @@
 <div align="center">
   <img src="https://count.getloli.com/@:hedi0?name=%3AMedHediAbd0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
 </div>
-
-###
----
-[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)
-
+-->
 ---
 
 <p align="center">
