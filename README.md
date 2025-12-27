@@ -66,7 +66,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
 </p>
 
 ### Mobile & Design
