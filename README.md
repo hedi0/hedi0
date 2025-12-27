@@ -39,7 +39,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/hedi0/.github/workflows/pixelGITHUB.gif" />
+<img src="https://github.com/hedi0/.github/workflows/pixelGITHUB.gif" />
 
 ## 🛠️ Tech Stack
 
