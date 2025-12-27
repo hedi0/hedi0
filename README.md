@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Mohammed%Hedi&Abd&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20Engineer%20%7C%20CE%20Student%20at%ISIMA%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Mohammed% Hedi% Abd&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20Engineer%20%7C%20CE%20Student%20at% ISIMA%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <h1 align="center">Mohammed Hedi Abdellatif</h1>
@@ -128,4 +128,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-contribution-grid-snake.svg" />
   <p>✨ Thanks for visiting my profile! ✨</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
