@@ -169,6 +169,10 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -177,10 +181,3 @@
   <p>✨ Thanks for visiting my profile! ✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
-
-
-###
----
-
-
-[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)
