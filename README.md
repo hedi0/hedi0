@@ -1,6 +1,6 @@
 ![Header](https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b)
 
-<h1 align="center">👋 Hi, I'm Mohammed Hedi Abdellatif</h1>
+<h1 align="center">Mohammed Hedi Abdellatif</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=5B3DFC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;From+Tunisia" alt="Typing SVG" />
