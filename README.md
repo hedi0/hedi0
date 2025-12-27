@@ -54,7 +54,7 @@
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask" />
 </p>
 
 ### Databases
