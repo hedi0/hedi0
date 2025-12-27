@@ -4,6 +4,25 @@
 
 <h1 align="center">Mohammed Hedi Abdellatif</h1>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<h2 align="center">Profile View</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:hedi0?name=%3AMedHediAbd0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
+</div>
+
+###
+---
+[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-hedi-abdellatif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
