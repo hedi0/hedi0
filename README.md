@@ -13,18 +13,14 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=5B3DFC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;From+Tunisia" alt="Typing SVG" />
-</div>
-
----
-## 📫 Connect With Me
 
 
 ---
 
 ## 👨‍💻 About Me
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=5B3DFC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;From+Tunisia" alt="Typing SVG" />
+</div>
 - 🌳 21 years old Computer Engineering Student  
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently studying at university ( ISIMA )
