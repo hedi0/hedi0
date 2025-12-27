@@ -42,7 +42,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,md,java" />
 </p>
 
 ### Embedded & IoT
@@ -54,7 +54,7 @@
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask,tailwind" />
 </p>
 
 ### Databases
