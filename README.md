@@ -64,7 +64,7 @@
 
 ### Mobile & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,figma,androidstudio,discord" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio,discord" />
 </p>
 
 ### DevOps & Tools
