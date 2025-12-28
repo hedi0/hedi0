@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Mohammed%20Hedi%20Abdellatif&fontSize=40&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20Engineer%20%7C%20CE%20Student%20at%20ISIMA%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
+
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <!-- <h1 align="center">Mohammed Hedi Abdellatif</h1> -->
 
 <!--
