@@ -59,7 +59,8 @@
 
 ---
 
-<img src="https://github.com/hedi0/hedi0/blob/main/.github/workflows/pixelGITHUB.gif"/>
+![Gamer GIF](https://github.com/hedi0/hedi0/github.gif)
+<img src="https://github.com/hedi0/hedi0/blob/main/github.gif"/>
 
 ## 🛠️ Tech Stack
 
