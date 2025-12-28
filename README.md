@@ -78,7 +78,7 @@
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask,tailwind,netlify" />
 </p>
 
 ### Databases
@@ -93,7 +93,7 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail,eclipse" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail,eclipse,kali,latex" />
 </p>
 
 ### Development Environments
