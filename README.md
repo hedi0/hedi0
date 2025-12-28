@@ -98,7 +98,7 @@
 
 ### Development Environments
 <p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,blender,fuse,github,windows,linux,ubuntu,powershell,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,github,windows,linux,ubuntu,powershell,bash" />
 </p>
 
 ### AI, ML & Computer Vision
