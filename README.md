@@ -59,7 +59,7 @@
 
 ---
 
-![Gamer GIF](https://github.com/hedi0/hedi0/blob/main/github.gif)
+<!-- ![Gamer GIF](https://github.com/hedi0/hedi0/blob/main/github.gif) -->
 <!-- <img src="https://github.com/hedi0/hedi0/blob/main/github.gif"/> -->
 
 ## 🛠️ Tech Stack
@@ -99,6 +99,16 @@
 ### Development Environments
 <p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell" />
+</p>
+
+### AI, ML & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikitlearn,opencv,yolo" />
+</p>
+
+### Data Science & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,panda,matplotlib,seaborn,jupyter" />
 </p>
 
 <div align="center">
