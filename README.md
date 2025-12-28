@@ -17,6 +17,7 @@
   <img src="https://count.getloli.com/@:hedi0?name=%3AMedHediAbd0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
 </div>
 -->
+
 ---
 
 <p align="center">
@@ -30,6 +31,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 ![Header](https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b)
 
