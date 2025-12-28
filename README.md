@@ -93,12 +93,12 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail,eclipse,kali,latex" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail,eclipse,kali,latex,npm" />
 </p>
 
 ### Development Environments
 <p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,fuse,github,windows,linux,ubuntu,powershell,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,blender,fuse,github,windows,linux,ubuntu,powershell,bash" />
 </p>
 
 ### AI, ML & Computer Vision
