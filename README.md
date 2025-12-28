@@ -59,7 +59,7 @@
 
 ---
 
-<img src="https://github.com/hedi0/hedi0/.github/workflows/pixelGITHUB.gif"/>
+<img src="https://github.com/hedi0/hedi0/blob/main/.github/workflows/pixelGITHUB.gif"/>
 
 ## 🛠️ Tech Stack
 
