@@ -2,7 +2,7 @@ name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman SVG
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: hedi0
+          github_user_name: hedio
           outputs: |
-            dist/pacman.svg?palette=github-dark
+            dist/pacman-dark.svg?palette=github-dark
+            dist/pacman-light.svg?palette=github-light
 
-      - name: Push SVG to repo
+      - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
           add: dist
