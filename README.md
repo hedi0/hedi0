@@ -93,7 +93,7 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail,eclipse" />
 </p>
 
 ### Development Environments
