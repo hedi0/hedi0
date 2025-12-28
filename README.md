@@ -103,11 +103,10 @@
 
 ### AI, ML & Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img src="https://skillicons.dev/icons?i=opencv,yolo"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn"/>  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  <img src="https://skillicons.dev/icons?i=opencv,yolo"/>
 </p>
 
 ### Data Science & Analytics
-<p>
   <img src="https://skillicons.dev/icons?i=numpy,panda,matplotlib,seaborn,jupyter" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -115,7 +114,6 @@
   <img src="https://img.shields.io/badge/Seaborn-4C5B64?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
 
 ---
 
