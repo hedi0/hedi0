@@ -16,7 +16,7 @@ jobs:
       - name: Generate Pacman SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: hedio
+          github_user_name: hedi0
           outputs: |
             dist/pacman-dark.svg?palette=github-dark
             dist/pacman-light.svg?palette=github-light
