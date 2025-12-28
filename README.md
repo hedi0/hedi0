@@ -104,11 +104,10 @@
 ### AI, ML & Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikitlearn,opencv,yolo" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=opencv,yolo" />
 </p>
 
 ### Data Science & Analytics
