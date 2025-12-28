@@ -8,15 +8,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Add this line
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Ensure correct token usage
 
       - name: Generate Pacman SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: hedi0
+          github_user_name: hedi0  # Make sure this username is correct
           outputs: |
             dist/pacman-dark.svg?palette=github-dark
             dist/pacman-light.svg?palette=github-light
@@ -26,3 +30,4 @@ jobs:
         with:
           add: dist
           message: "Update Pacman contribution graph"
+          token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly specify token
