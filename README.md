@@ -66,7 +66,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,md,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,qt,md,java" />
 </p>
 
 ### Embedded & IoT
@@ -93,7 +93,7 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,gmail,eclipse,kali,latex,npm" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,openstack,gmail,eclipse,kali,latex,npm" />
 </p>
 
 ### Development Environments
