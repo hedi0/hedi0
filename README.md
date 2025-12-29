@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Mohammed%20Hedi%20Abdellatif&fontSize=40&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20Engineer%20%7C%20CE%20Student%20at%20ISIMA%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<p><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> </p>
 <!-- <h1 align="center">Mohammed Hedi Abdellatif</h1> -->
 
 <!--
@@ -37,6 +37,9 @@
 
 <!--![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=hedi0&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)-->
 
+
+
+<br>
 ---
 
 ## 👨‍💻 About Me
