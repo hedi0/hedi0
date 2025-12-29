@@ -19,6 +19,28 @@
 </div>
 -->
 
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50">
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50">
+</div>
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50">
+</div>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<h1 id="-languages-and-tools"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> Languages and Tools:</h1>
+
+
 ---
 
 <p align="center">
