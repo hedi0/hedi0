@@ -74,7 +74,7 @@
 
 <img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-- 🌳 21 years old Computer Engineering Student   rfdrfre
+- 🌳 21 years old Computer Engineering Student 
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently studying at university ( ISIMA )
 - 🔭 Working on embedded systems projects  
