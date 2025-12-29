@@ -19,7 +19,7 @@
 </div>
 -->
 
-<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
@@ -72,6 +72,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=5B3DFC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;From+Tunisia" alt="Typing SVG" />
 </div>
 
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
 - 🌳 21 years old Computer Engineering Student  
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently studying at university ( ISIMA )
@@ -91,6 +93,9 @@
 <!-- <img src="https://github.com/hedi0/hedi0/blob/main/github.gif"/> -->
 
 ## 🛠️ Tech Stack
+
+<p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+<img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
 
 ### Programming Languages
 <p>
