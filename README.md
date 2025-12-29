@@ -37,11 +37,11 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50">
 </div>
+
+<!-- Line Break -->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-hedi-abdellatif/" target="_blank">
