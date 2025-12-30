@@ -6,7 +6,7 @@ Embedded Systems & IOT Student
 
 3 years experience
 
-* 🌍  I'm based in Nabeul , Tunisia
+* 🌍  I'm based in Mahdia , Tunisia
 * 🖥️  See my portfolio at [My Portfolio](http://portfolioAMINE.com)
 * ✉️  You can contact me at [hediofficially@gmail.com](mailto:aminebennaima@gmail.com)
 * 🚀  I'm currently working on [ISIMA](http://isima.rnu.tn/)
