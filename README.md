@@ -51,7 +51,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=5B3DFC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;From+Tunisia" alt="Typing SVG" />
 </div>
 
+<br />
 <img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<br />
 
 - 🌳 21 years old Computer Engineering Student 
 - 🖥️ Specializing in **Embedded Systems & IoT**  
