@@ -9,10 +9,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-hedi-abdellatif/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn Profile"
   />
 </a>
+
 
   <a href="mailto:hediofficially@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
