@@ -84,49 +84,49 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,qt,md,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,qt,md,java&theme=light" />
 </p>
 
 ### Embedded & IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask,tailwind,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask,tailwind,netlify&theme=light" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=light" />
 </p>
 
 ### Mobile & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio,discord" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio,discord&theme=light" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,openstack,gmail,eclipse,kali,latex,npm" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,bash,stackoverflow,openstack,gmail,eclipse,kali,latex,npm&theme=light" />
 </p>
 
 ### Development Environments
 <p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,github,windows,linux,ubuntu,powershell,bash" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,github,windows,linux,ubuntu,powershell,bash&theme=light" />
 </p>
 
 ### AI, ML & Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn"/>  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  <img src="https://skillicons.dev/icons?i=opencv"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=light"/>  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  <img src="https://skillicons.dev/icons?i=opencv"/>
 </p>
 
 ### Data Science & Analytics
 <p >
-  <img src="https://skillicons.dev/icons?i=numpy,panda,matplotlib,seaborn,jupyter"/> 
+  <img src="https://skillicons.dev/icons?i=numpy,panda,matplotlib,seaborn,jupyter&theme=light"/> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
