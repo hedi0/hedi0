@@ -60,7 +60,7 @@
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently studying at university ( ISIMA )
 - 🔭 Working on embedded systems projects  
-- 🏆 Competitive programming enthusiast  
+- 🏆 Competitive Programming enthusiast  
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
