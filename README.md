@@ -58,7 +58,7 @@
 
 - 🌳 21 years old Computer Engineering Student 
 - 🖥️ Specializing in **Embedded Systems & IoT**  
-- 🎓 Currently Studying At Higher Institute
+- 🎓 Currently Studying At Higher Institute of 
 - 🔭 Working on embedded systems projects  
 - 🏆 Competitive Programming Enthusiast  
 
