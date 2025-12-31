@@ -184,7 +184,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-contribution-grid-snake.svg" />
   <br>
-  <p>✨ Thanks for visiting my profile! ✨</p>
+  <p>✨ Thanks for visiting my profile Love  ✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
 
