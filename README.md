@@ -60,7 +60,8 @@
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently Studying At **Higher Institute of CS Mahdia**
 - 🔭 Working on embedded systems and iot projects  
-- 🏆 Competitive Programming Enthusiast  
+- 🏆 Competitive Programming Enthusiast
+- Curious About CyberSecurity and Open to Learn
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
