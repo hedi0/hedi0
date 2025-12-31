@@ -59,7 +59,7 @@
 - 🌳 21 years old Computer Engineering Student 
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently Studying At **Higher Institute of CS Mahdia**
-- 🔭 Working on embedded systems projects  
+- 🔭 Working on embedded systems and iot projects  
 - 🏆 Competitive Programming Enthusiast  
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
