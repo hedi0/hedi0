@@ -58,7 +58,7 @@
 - 🌳 21 years old Computer Engineering Student 
 - 🖥️ Specializing in **Embedded Systems & IoT**  
 - 🎓 Currently Studying At **Higher Institute of CS Mahdia**
-- 🔭 Working on embedded systems and iot projects  
+- 🔭 Working on embedded systems and iot project
 - 🏆 Competitive Programming Enthusiast
 - 💡 Curious About **CyberSecurity** and Open to Learn
 
