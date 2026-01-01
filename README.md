@@ -146,7 +146,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hedi0&theme=radical)<br>
 
-![](https-stats.vercel.app/api/top-lang=hed=dark&=false&include_all_commits=true&co*
+![](https-stats.vercel.app/api/tophed=dark&=false&include_all_commits=true&co*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hedi0&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" />
