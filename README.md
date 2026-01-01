@@ -117,7 +117,7 @@
 </p>
 
 ### Development Environments
-<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado -->
+<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,github,windows,linux,ubuntu,powershell,bash&theme=light" />
 </p>
 
