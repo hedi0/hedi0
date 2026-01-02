@@ -158,7 +158,7 @@
 
 ---
 
-[![Hedi's GitHub stat
+[![Hedi's Gi
 
 
 ### ✍️ Random Dev Quote
