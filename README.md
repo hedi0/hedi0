@@ -158,7 +158,7 @@
 
 ---
 
-[![Hedi's GitHub stats](https
+[![Hedi's GitHub stat
 
 
 ### ✍️ Random Dev Quote
