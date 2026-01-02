@@ -117,7 +117,12 @@
 
 ### Development Environments
 <p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,blender,github,windows,linux,ubuntu,powershell,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell,bash&theme=light" />
+</p>
+
+### Game Development
+<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP -->
+  <img src="https://skillicons.dev/icons?i=unity,blender,fuse&theme=dark" />
 </p>
 
 ### AI, ML & Computer Vision
