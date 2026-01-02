@@ -158,7 +158,7 @@
 
 ---
 
-[![Hedi's Gi
+[![Hedi
 
 
 ### ✍️ Random Dev Quote
