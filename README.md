@@ -158,7 +158,7 @@
 
 ---
 
-[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api
+[![Hedi's GitHub stats](https://github-readme-stats.vercel.
 
 
 ### ✍️ Random Dev Quote
