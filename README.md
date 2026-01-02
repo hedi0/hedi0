@@ -158,7 +158,7 @@
 
 ---
 
-[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedi0)](https://github.com/anuraghazra/github-readme-stats)
+[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedi0)](https://github.com/anuraghazr
 
 
 ### ✍️ Random Dev Quote
@@ -168,6 +168,7 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=hedi0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!--
 ---
