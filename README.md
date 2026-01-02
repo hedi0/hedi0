@@ -158,7 +158,7 @@
 
 ---
 
-[![Hedi
+[![
 
 
 ### ✍️ Random Dev Quote
