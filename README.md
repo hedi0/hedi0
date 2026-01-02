@@ -158,6 +158,9 @@
 
 ---
 
+[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedi0)](https://github.com/hedi0/github-readme-stats)
+
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
