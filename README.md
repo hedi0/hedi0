@@ -121,8 +121,8 @@
 </p>
 
 ### Game Development
-<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP -->
-  <img src="https://skillicons.dev/icons?i=unity,blender,fuse&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,blender,fuse&theme=light" />
 </p>
 
 ### AI, ML & Computer Vision
