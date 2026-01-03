@@ -205,5 +205,4 @@
   <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/proteus-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/blender-icon.svg" alt="icon" width="50" height="50">
-</div>
--->
+</div>-->
