@@ -123,7 +123,7 @@
 </p>
 
 ### Game Development
-<p>
+<p> <!-- fuse -->
   <img src="https://skillicons.dev/icons?i=unity,blender&theme=light" />
 </p>
 
