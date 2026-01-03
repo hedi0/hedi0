@@ -87,7 +87,7 @@
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>-->
 
 ### Programming Languages
-<p>   <!--cpp -->
+<p>                                     <!--cpp -->
   <img src="https://skillicons.dev/icons?i=c,cs,python,qt,md,java" />
 </p>
 
