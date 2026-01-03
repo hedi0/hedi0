@@ -114,7 +114,7 @@
 
 ### DevOps & Tools
 <p>                           <!-- kubrernetes , aws -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,stackoverflow,openstack,gmail,eclipse,kali,latex&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,stackoverflow,openstack,gmail,eclipse,kali,latex&theme=light" />
 </p>
 
 ### Development Environments
