@@ -114,7 +114,7 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,stackoverflow,openstack,gmail,eclipse,kali,latex,npm&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,stackoverflow,openstack,gmail,eclipse,kali,latex&theme=light" />
 </p>
 
 ### Development Environments
