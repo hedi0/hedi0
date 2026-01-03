@@ -91,7 +91,7 @@
 </p>
 
 ### Embedded & IoT
-<p>
+<p>                     <!---->
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" /> 
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
