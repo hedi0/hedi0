@@ -86,8 +86,8 @@
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>-->
 
 ### Programming Languages
-<p>                                     <!--cpp -->
-  <img src="https://skillicons.dev/icons?i=c,cs,python,qt,md,java" />
+<p>                                     <!--cpp,md,qt -->
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java" />
 </p>
 
 ### Embedded & IoT
@@ -99,7 +99,7 @@
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vercel,express,flask,tailwind,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,flask,tailwind,netlify&theme=light" />
 </p>
 
 ### Databases
