@@ -124,7 +124,7 @@
 
 ### Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,blender,fuse&theme=light" />
+  <img src="https://skillicons.dev/icons?i=unity,blender&theme=light" />
 </p>
 
 ### AI, ML & Computer Vision
