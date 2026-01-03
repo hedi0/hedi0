@@ -118,8 +118,8 @@
 </p>
 
 ### Development Environments
-<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell,bash&theme=light" />
+<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP, -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,linux,ubuntu,powershell&theme=light" />
 </p>
 
 ### Game Development
