@@ -88,7 +88,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,qt,md,java" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,qt,md,java" />
 </p>
 
 ### Embedded & IoT
