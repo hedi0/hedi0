@@ -62,7 +62,7 @@
 <br/>
 
 - 🌳 21 years old Computer Engineering Student 
-- 🖥️ Specializing in **Embedded Systems & IoT**  
+- 🖥️ Specializing in **Embedded Systems & IoT**
 - 🎓 Currently Studying At **Higher Institute of CS Mahdia**
 - 🔭 Searching For a EOS internship(PFE)
 - 🏆 Competitive Programming Lover
