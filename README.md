@@ -162,8 +162,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=hedi0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-----[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)
------>
+<!-----[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)----->
 
 ## 🐍 Contribution Snake
 
