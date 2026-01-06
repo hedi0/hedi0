@@ -36,7 +36,6 @@
 <!-- <!-- Line Break --
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p> -->
 
-
 <!-- ![Header](https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b) -->
 <!--![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=hedi0&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)-->
 
