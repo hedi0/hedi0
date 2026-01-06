@@ -15,7 +15,6 @@
   <a href="https://github.com/hedi0">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
   <a href="https://medhediabd.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logoColor=black" />
   </a>
