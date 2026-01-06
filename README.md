@@ -27,7 +27,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph.svg">
 </picture>
 ###
-
 <h2 align="center">Profile View</h1>
 
 <div align="center">
