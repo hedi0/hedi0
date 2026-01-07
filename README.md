@@ -59,8 +59,6 @@
   <img src="https://img.shields.io/github/followers/hedi0?style=social" />
 </p>
 
----
-
 <!-- ![Gamer GIF](https://github.com/hedi0/hedi0/blob/main/github.gif) -->
 <!-- <img src="https://github.com/hedi0/hedi0/blob/main/github.gif"/> -->
 
