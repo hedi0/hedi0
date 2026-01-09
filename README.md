@@ -1,4 +1,5 @@
 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>                 
   <a href="https://medhediabd.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logoColor=black" />
