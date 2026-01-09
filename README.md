@@ -1,23 +1,4 @@
-<div align="center"> <!--%20CE%20Student%20at%20ISIMA%20%7C%20Embedded%20Systems%20and%20IOT-->  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Mohammed%20Hedi%20Abdellatif&fontSize=40&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Searching%20for%20a%20'PFE'%20in%20Embedded%20Systems%20and%20IOT&descAlignY=60&descAlign=50" width="100%" />          
-</div>
-<!--
-<p><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
--->
-<p align="center">  
-  <a href="https://www.linkedin.com/in/mohammed-hedi-abdellatif/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hediofficially@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hedi0" target="_blank" rel="noopener noreferrer">                   
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>                 
-  <a href="https://medhediabd.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logoColor=black" />
-  </a>
-</p>
+
 <!-- <h1 align="center">Mohammed Hedi Abdellatif</h1> -->
 <!--<picture>    
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hedi0/hedi0/output/pacman-contribution-graph-dark.svg">
