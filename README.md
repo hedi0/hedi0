@@ -104,10 +104,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,ubuntu&theme=light" />
 </p>
 
-### Game Development
-<p> <!-- fuse -->
-  <img src="https://skillicons.dev/icons?i=unity,blender&theme=light" />
-</p>
+
 
 ### AI, ML & Computer Vision
 <p>
