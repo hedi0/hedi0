@@ -62,67 +62,7 @@
 <!-- ![Gamer GIF](https://github.com/hedi0/hedi0/blob/main/github.gif) -->
 <!-- <img src="https://github.com/hedi0/hedi0/blob/main/github.gif"/> -->
 
-## 🛠️ Tech Stack
 
-<!--<p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-<img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>-->
-
-### Programming Languages
-<p>                                     <!--cpp,md,qt -->
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java" />
-</p>
-
-### Embedded & IoT
-<p>                     <!--vercel-->
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" /> 
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,flask,tailwind,netlify&theme=light" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=light" />
-</p>
-
-### Mobile & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio,discord&theme=light" />
-</p>
-
-### DevOps & Tools
-<p>                           <!-- kubrernetes , aws , stackoverflow, openstack-->
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,gmail,eclipse,kali,latex&theme=light" />
-</p>
-
-### Development Environments
-<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP,bash,npm,linux,powershell -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,ubuntu&theme=light" />
-</p>
-
-### Game Development
-<p> <!-- fuse -->
-  <img src="https://skillicons.dev/icons?i=unity,blender&theme=light" />
-</p>
-
-### AI, ML & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&theme=light"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
-</p>
-
-### Data Science & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C5B64?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
 
 ## 📊 GitHub Stats
 
