@@ -47,6 +47,17 @@
 - 🌳 21 years old Computer Engineering Student 
 - 🖥️ Specializing in **Embedded Systems & IoT**
 - 🎓 Currently Studying At **Higher Institute of CS Mahdia**
+- 🔭 Searching For a EOS internship(PFE)
+- 🏆 Competitive Programming Lover
+- 💡 Curious About **CyberSecurity** and Open to Learn
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hedi0&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/hedi0?style=social" />
+</p>
 
 <!-- ![Gamer GIF](https://github.com/hedi0/hedi0/blob/main/github.gif) -->
 <!-- <img src="https://github.com/hedi0/hedi0/blob/main/github.gif"/> -->
