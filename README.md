@@ -109,10 +109,7 @@
   <img src="https://skillicons.dev/icons?i=unity,blender&theme=light" />
 </p>
 
-### AI, ML & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&theme=light"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
-</p>
+
 
 ### Data Science & Analytics
 <p align="left">
