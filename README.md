@@ -155,14 +155,7 @@
 
 <!-----[![](https://visitcount.itsvg.in/api?id=hedi0&icon=2&color=1)](https://visitcount.itsvg.in)----->
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-contribution-grid-snake.svg" />
-  <br>
-  <p>✨ Thanks for visiting my profile ✨</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
-</div>
 <!--<div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">   
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
