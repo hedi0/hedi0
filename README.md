@@ -97,7 +97,10 @@
 ### DevOps & Tools
 <p>                           <!-- kubrernetes , aws , stackoverflow, openstack-->
   <img src="https://skillicons.dev/icons?i=docker,git,linux,gmail,eclipse,kali,latex&theme=light" />
+</p>
 
+### Development Environments
+<p>   <!-- labview,vitis,vmware,virtualbox,proteus,vivado,VSP,bash,npm,linux,powershell -->
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows,ubuntu&theme=light" />
 </p>
 
