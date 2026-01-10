@@ -84,7 +84,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,flask,tailwind,netlify&theme=light" />
 </p>
 
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase&theme=light" />
+</p>
 
+### Mobile & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio,discord&theme=light" />
+</p>
+
+### DevOps & Tools
 <p>                           <!-- kubrernetes , aws , stackoverflow, openstack-->
   <img src="https://skillicons.dev/icons?i=docker,git,linux,gmail,eclipse,kali,latex&theme=light" />
 </p>
