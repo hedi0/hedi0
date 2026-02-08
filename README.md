@@ -181,6 +181,8 @@
 
 <a href="https://u8views.com/github/hedi0"><img src="https://u8views.com/api/v1/github/profiles/24542687/views/day-week-month-total-count.svg"></a>
 
-<br>
+<div align="center">
+  <br>
   <p>✨ Thanks for visiting my profile ✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
+</div>
