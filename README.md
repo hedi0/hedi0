@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Mohammed%20Hedi%20Abdellatif&fontSize=40&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Searching%20for%20a%20'PFE'%20in%20Embedded%20Systems%20and%20IOT&descAlignY=60&descAlign=50" width="100%" />          
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hedi0&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/hedi0/github-widgetbox)
-
-<a href="https://u8views.com/github/hedi0"><img src="https://u8views.com/api/v1/github/profiles/24542687/views/day-week-month-total-count.svg"></a>
- 
 <!--
 <p><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
 -->
@@ -182,3 +178,8 @@
   <img src="https://techstack-generator.vercel.app/proteus-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/blender-icon.svg" alt="icon" width="50" height="50">
 </div>-->
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hedi0&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/hedi0/github-widgetbox)
+
+<a href="https://u8views.com/github/hedi0"><img src="https://u8views.com/api/v1/github/profiles/24542687/views/day-week-month-total-count.svg"></a>
