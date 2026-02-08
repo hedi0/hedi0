@@ -158,9 +158,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hedi0/hedi0/output/github-contribution-grid-snake.svg" />
-  <br>
-  <p>✨ Thanks for visiting my profile ✨</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
 <!--<div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">   
@@ -183,3 +180,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hedi0&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/hedi0/github-widgetbox)
 
 <a href="https://u8views.com/github/hedi0"><img src="https://u8views.com/api/v1/github/profiles/24542687/views/day-week-month-total-count.svg"></a>
+
+<br>
+  <p>✨ Thanks for visiting my profile ✨</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
