@@ -178,9 +178,9 @@
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hedi0&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/hedi0/github-widgetbox)
-
-<a href="https://u8views.com/github/hedi0"><img src="https://u8views.com/api/v1/github/profiles/24542687/views/day-week-month-total-count.svg"></a>
-
+<div align="center">
+  <a href="https://u8views.com/github/hedi0"><img src="https://u8views.com/api/v1/github/profiles/24542687/views/day-week-month-total-count.svg"></a>
+</div>
 <div align="center">
   <br>
   <p>✨ Thanks for visiting my profile ✨</p>
