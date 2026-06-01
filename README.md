@@ -1,5 +1,4 @@
-<div align=0Student%20at%20ISIMA%20%7C%20Embedded%20Systems%20and%20IOT-->  
-  <imgnHedi%20Aif&fontSize=40&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35" width="100%" /> 
+<div align=0Student%20at%20ISIMA%20%7C%20Embedded%20Systems%20antSize=40&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35" width="100%" /> 
 
 
 
