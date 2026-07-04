@@ -189,3 +189,7 @@
   <p>✨ Thanks for visiting my profile ✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
+
+
+
+got everything you need it
