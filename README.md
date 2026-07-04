@@ -192,4 +192,4 @@
 
 
 
-got everything you need it
+got everythin
