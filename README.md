@@ -1,4 +1,4 @@
-gjj npm install# oryarn install# orpnpm install4
+gjj npm install# oryarn install# orp
 <div align=0Student%20at%20ISIMA%20%=fadeIn&fontAlignY=35" width="100%" /> 
 
 <div align="center"> <!--%20CE%20Student%20at%20ISIMA%20%7C%20Embedded%20Systems%20and%20IOT-->
